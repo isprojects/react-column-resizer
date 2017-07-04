@@ -44,7 +44,7 @@
       "^.+\\.js$": "<rootDir>/jest.transform.js"
     }
   },
-  "author": "",
+  "author": "ISProjects",
   "homepage": "",
   "license": "MIT",
   "repository": "",
