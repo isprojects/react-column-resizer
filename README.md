@@ -4,7 +4,9 @@
 [![npm package][npm-badge]][npm]
 [![Coveralls][coveralls-badge]][coveralls]
 
-Describe react-column-resizer here.
+A thin React wrapper around https://github.com/MonsantoCo/column-resizer
+
+Credits: ISProjects
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
